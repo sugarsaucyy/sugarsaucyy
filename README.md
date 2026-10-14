@@ -13,9 +13,11 @@ Currently, I'm building projects and learning how to turn ideas into functional,
 ## Skills
 
 - Flutter
+- Figma
 - Dart
 - UI/UX Design
 - Git & GitHub
+- Graphic Designing
 
 ## Featured Project
 
